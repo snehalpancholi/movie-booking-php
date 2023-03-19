@@ -1,19 +1,9 @@
-# online-movie-booking
-I doveloped this project using Core PHP,HTML,JavaScript,CSS,Bootstrap.
+# Movie Booking (Core PHP)
+Online Movie Booking Project is an online system that allows customers to purchase movie tickets from the comfort of their own home. The system allows customers to view available movie times and select the show they want to attend. After selecting their desired movie, customers can select their seat and pay for the ticket.
 
-# Note
-1. This project is for college and study only
-2. that is not use for Commercial project
+The system works by connecting to the customer’s bank account and processing the payment. The customer’s ticket is then emailed to them for their convenience. The customer can print the ticket or present it on their phone at the theatre to gain entry.
 
-# Screenshot
+The system is designed to be user-friendly and is easy to use. It works with all major banks and credit cards, allowing customers to make their purchase quickly and easily. The system also includes customer support and a customer feedback system, allowing customers to provide feedback on the service.
 
-## 1. Home page ##
-![home1](https://user-images.githubusercontent.com/104883953/167260990-670d3197-5c62-44bc-b821-fcc8d0efd36d.jpg)
-![home2](https://user-images.githubusercontent.com/104883953/167261156-947f1206-6d2f-48c5-b3ba-319ff50b2e95.jpg)
-
-## 2. All Movie ##
-![all movie](https://user-images.githubusercontent.com/104883953/167261026-0c6d020e-7963-4e33-85e9-97b2b118d2e6.jpg)
-
-## 3. Seat Book ##
-![seat book](https://user-images.githubusercontent.com/104883953/167261039-e45bb084-ed5a-4b43-b8d2-132a16100d41.jpg)
-
+## Contact
+* [Snehal Pancholi](https://snehalpancholi.com/contact)
